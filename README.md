@@ -16,12 +16,14 @@ PS：有些网课脚本是油猴脚本插件，可以参考 [这篇文章](https
 
 > 这个平台上的 MOOC 会在看视频过程中弹题，如果一直放着不答视频的进度就不会推动，非常恶心。
 
-- [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) 跑在本地 python 环境下，可以自动跳题
+- [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) 跑在本地 Python 环境下，可以自动跳题
+- [Autovisor](https://github.com/CXRunfree/Autovisor) 同样是 Python 脚本，作者更新还算勤快
 
 
 ## 雨课堂
 
 - [长江雨课堂_HITSZ](https://greasyfork.org/zh-CN/scripts/501045-%E9%95%BF%E6%B1%9F%E9%9B%A8%E8%AF%BE%E5%A0%82-hitsz) 油猴脚本，可以自动刷课以及发布讨论
+- [雨课堂刷课助手](https://github.com/Niuwh/yuketang-jiaoben) 油猴脚本，支持多所高校 MOOC
 
 ## 中国大学 MOOC
 
